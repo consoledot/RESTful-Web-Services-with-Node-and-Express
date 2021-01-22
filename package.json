@@ -1,0 +1,25 @@
+{
+  "name": "restful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/consoledot/RESTful-Web-Services-with-Node-and-Express.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "abimbola oladele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/consoledot/RESTful-Web-Services-with-Node-and-Express/issues"
+  },
+  "homepage": "https://github.com/consoledot/RESTful-Web-Services-with-Node-and-Express#readme"
+}
